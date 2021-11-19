@@ -4,6 +4,7 @@
 * Again Cafe x Chibuscus Ramen
 * Lavender & Honey Espresso Bar
 * Magnolia House
+* Jameson Brown coffee roasters
 
 ### Boba
 * Home Brewed Bar
