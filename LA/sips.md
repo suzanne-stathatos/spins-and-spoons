@@ -20,3 +20,6 @@
 
 ### Atwater
 * Big Foot Lounge
+
+### Santa Monica
+* The Bungalow (day drinks)
