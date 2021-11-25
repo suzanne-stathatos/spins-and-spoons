@@ -4,6 +4,7 @@
 * Lucky Boy
 * Tops
 * King Taco
+* Einstein Bros
 
 ### $$
 * Pie and Burger
@@ -14,6 +15,9 @@
 * Nine & Nine
 * Chengdu Taste (Alhambra)
 * Porto's Bakery (Glendale)
+* Slater's 50/50 (also great trivia)
+* El Portal
+* Mamma's Brick Oven Pizza and Pasta (South Pas)
 
 ### $$$ 
 * Union 
@@ -24,4 +28,11 @@
 ### Chains
 * Tendergreens
 * Sugarfish
-
+* The Counter
+* BJs Restaurant and Brewery
+* Yard House
+* Setabello Pizza (amazing!)
+* Veggie Grill
+* Mendocino Farms
+* Kabuki
+* Granville

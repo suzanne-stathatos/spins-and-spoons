@@ -3,7 +3,6 @@
 * Intelligensia
 * Again Cafe x Chibuscus Ramen
 * Lavender & Honey Espresso Bar
-* Magnolia House
 * Jameson Brown coffee roasters
 
 ### Boba
@@ -15,6 +14,9 @@
 * White Horse
 * The Tap Room
 * 1881
+* Magnolia House
+* Griffins (South Pas) - Irish Bar
+* Communal (South Pas)
 
 ### Cigars (fancier)
 * The Langham - a place to take your parents

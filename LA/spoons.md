@@ -14,6 +14,7 @@
 
 ## Echo Park
 * Guisados ($)
+* Woon (Chinese)
 
 ## Downtown
 * Angler (also in SF)
@@ -22,6 +23,9 @@
 * Marisco's Jalisco (Boyle Heights)
 * Sonoratown
 * Grand Central Market
+
+## Eagle Rock
+* Little Beast 
 
 ## Arts District
 * Girl and The Goat
@@ -33,3 +37,8 @@
 
 ## Glendale + Alhambra
 * Din Tai Fung
+* Mini Kebab
+
+## Culver City
+* n/naka (Japanese) ($$$)
+
