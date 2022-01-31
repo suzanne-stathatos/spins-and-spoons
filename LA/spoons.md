@@ -1,16 +1,15 @@
 ## Silverlake
 * Bacari
-* L&E Oysters
+* L&E Oysters ($$)
 * Daybird ($)
 * Wood (pizza) ($$)
+* El Russo Taco Truck ($)
+* Yakuza sushi ($$)
+* Amaretto ($$$$)
+* Breadblok Bakery (also in Santa Monica) ($)
 
-## Hollywood
-* Yamashiro's ($$$)
-* Jon and Vinny's (pizza) ($$)
-* Gigi's
-* Chateau Marmont ($$$$)
-* Kensho
-* Mama Shelter
+## Atwater Village
+* Salazar's
 
 ## Echo Park
 * Guisados ($)
@@ -24,6 +23,17 @@
 * Sonoratown
 * Grand Central Market
 
+## Koreatown
+* Monty's Good Burger ($) (Vegan)
+
+## Hollywood
+* Yamashiro's ($$$)
+* Jon and Vinny's (pizza) ($$)
+* Gigi's
+* Chateau Marmont ($$$$)
+* Kensho
+* Mama Shelter
+
 ## Eagle Rock
 * Little Beast 
 
@@ -35,10 +45,22 @@
 * Broad Street Oyster Co.
 * Neptune's Net
 
+## Venice
+* Only the Wild Ones ($$$)
+* Great White ($$$)
+* The Rose Venice ($$$)
+* Wabion Rose ($$$) 
+* Chulita Venice ($$$)
+* Little Lunch Coffee ($) / Big Lunch Venice ($$)
+* Gran Blanco
+
 ## Glendale + Alhambra
 * Din Tai Fung
 * Mini Kebab
 
 ## Culver City
 * n/naka (Japanese) ($$$)
+
+## Manhattan Beach
+* M&Love Cafe
 
