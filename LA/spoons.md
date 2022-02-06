@@ -14,6 +14,7 @@
 ## Echo Park
 * Guisados ($)
 * Woon (Chinese)
+* Bacetti (Italian) ($$)
 
 ## Downtown
 * Angler (also in SF)
@@ -22,6 +23,7 @@
 * Marisco's Jalisco (Boyle Heights)
 * Sonoratown
 * Grand Central Market
+* KazuNori ( Sushi, handrolls + sashimi )
 
 ## Koreatown
 * Monty's Good Burger ($) (Vegan)
@@ -53,6 +55,8 @@
 * Chulita Venice ($$$)
 * Little Lunch Coffee ($) / Big Lunch Venice ($$)
 * Gran Blanco
+* Belles Beach House Hawaiian Restaurant ($$)
+* Zinque ( also in dtla, newport, weho)*
 
 ## Glendale + Alhambra
 * Din Tai Fung

@@ -8,6 +8,7 @@
 ### Boba
 * Home Brewed Bar
 * The Alley
+* Tea Pumps (Tuesdays!)
 
 ### Bars
 * Kings Row

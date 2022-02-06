@@ -68,6 +68,7 @@
 * Moonjuice
 * Cafe Gratitude
 * Groundwork coffee
+* Gjusta
 
 ### Long Beach
 * The Bamboo Club
