@@ -26,6 +26,7 @@
 * KazuNori ( Sushi, handrolls + sashimi )
 
 ## Koreatown
+* Dan Sung Sa ($)
 * Monty's Good Burger ($) (Vegan)
 
 ## Hollywood
@@ -35,6 +36,10 @@
 * Chateau Marmont ($$$$)
 * Kensho
 * Mama Shelter
+
+## Studio City
+* Firefly
+* Joan's on Third
 
 ## Eagle Rock
 * Little Beast 
@@ -57,6 +62,7 @@
 * Gran Blanco
 * Belles Beach House Hawaiian Restaurant ($$)
 * Zinque ( also in dtla, newport, weho)*
+* Laurel Hardware
 
 ## Glendale + Alhambra
 * Din Tai Fung
@@ -68,3 +74,5 @@
 ## Manhattan Beach
 * M&Love Cafe
 
+## Beverly Hills
+* Ima (Dan's spot) (too many dollar signs) <3 

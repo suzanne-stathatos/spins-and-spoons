@@ -39,6 +39,7 @@
 ### Hollywood
 * No Vacancy
 * La Descarga
+* Dirty Laundry
 * Good Times at Davy Waynes
 * Sassafras saloon
 * Mama Shelter rooftop
