@@ -1,3 +1,7 @@
+## Coffee
+* Andytown (Sunset)
+* Noe Cafe (Noe)
+
 ## Cocktails
 * The Interval
 * Peacekeeper (Bush Street)
@@ -26,3 +30,4 @@
 ## Bars
 * Cozy Kar
 * The Alchemist
+* Zeki's (Trivia)
