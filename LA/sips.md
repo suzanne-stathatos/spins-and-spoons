@@ -47,7 +47,8 @@
 * Roosevelt Hotel
 * Lolo Wine Bar
 * The Spare Room ($$$)
-
+* EP & LP
+* Ace Hotel Rooftop
 ### Weho
 * Employees Only ($$)
 
@@ -70,6 +71,8 @@
 * Cafe Gratitude
 * Groundwork coffee
 * Gjusta
+* Hotel Irwin
+* Grand Blanco
 
 ### Long Beach
 * The Bamboo Club

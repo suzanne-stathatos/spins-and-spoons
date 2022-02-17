@@ -7,6 +7,7 @@
 * Yakuza sushi ($$)
 * Amaretto ($$$$)
 * Breadblok Bakery (also in Santa Monica) ($)
+* Blair's
 
 ## Atwater Village
 * Salazar's
@@ -53,6 +54,7 @@
 * Neptune's Net
 
 ## Venice
+* First Fridays ($) - every first friday of the month, Venice closes off a street to food trucks (like Oakland's first fridays, but.. cleaner)
 * Only the Wild Ones ($$$)
 * Great White ($$$)
 * The Rose Venice ($$$)
@@ -63,6 +65,9 @@
 * Belles Beach House Hawaiian Restaurant ($$)
 * Zinque ( also in dtla, newport, weho)*
 * Laurel Hardware
+
+## Santa Monica
+* Elephante
 
 ## Glendale + Alhambra
 * Din Tai Fung
