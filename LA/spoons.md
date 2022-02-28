@@ -8,6 +8,7 @@
 * Amaretto ($$$$)
 * Breadblok Bakery (also in Santa Monica) ($)
 * Blair's
+* Botanica ($$)
 
 ## Atwater Village
 * Salazar's
@@ -25,6 +26,7 @@
 * Sonoratown
 * Grand Central Market
 * KazuNori ( Sushi, handrolls + sashimi )
+* Poppy + Rose’s (Brunch)
 
 ## Koreatown
 * Dan Sung Sa ($)

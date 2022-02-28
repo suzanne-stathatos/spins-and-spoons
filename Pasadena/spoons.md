@@ -24,6 +24,8 @@
 * Panda Inn (the OG to Panda Express)
 * Magnolia House
 * Agnes
+* U Street Cafe
+* The Black Cat
 
 ### Chains
 * Tendergreens

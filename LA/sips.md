@@ -3,6 +3,7 @@
 * Tenants of the Trees (temporarily closed)
 * Bacari
 * Hyperion Public
+* Botanica
 
 ### Highland Park
 * The Blind Barber
