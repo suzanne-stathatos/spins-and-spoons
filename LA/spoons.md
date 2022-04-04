@@ -27,6 +27,7 @@
 * Grand Central Market
 * KazuNori ( Sushi, handrolls + sashimi )
 * Poppy + Rose’s (Brunch)
+* BRERA Ristorante
 
 ## Koreatown
 * Dan Sung Sa ($)
@@ -67,6 +68,7 @@
 * Belles Beach House Hawaiian Restaurant ($$)
 * Zinque ( also in dtla, newport, weho)*
 * Laurel Hardware
+* Wabi on Rose
 
 ## Santa Monica
 * Elephante

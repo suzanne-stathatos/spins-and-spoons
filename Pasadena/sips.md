@@ -1,4 +1,5 @@
 ### Cafe
+* The Boy and The Bear Coffee
 * Copa Vida
 * Intelligensia
 * Again Cafe x Chibuscus Ramen

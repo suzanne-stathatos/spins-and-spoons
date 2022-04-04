@@ -9,6 +9,14 @@
 * Zuni Cafe
 * La Taqueria (Mission, $) - amazing
 * Limon (Mission)
+* La Taq
+* El Faro
+* Eric's Chinese 
+* Souvla
+* The Mill 
+* Sam's Chowder House (Tiburon)
+* White Elephant Sushi
+* Hikari Bullet Train Sushi
 
 Breakfasts
 * Devil's Teeth Baking Co

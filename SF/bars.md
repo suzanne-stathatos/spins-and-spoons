@@ -1,7 +1,3 @@
-## Coffee
-* Andytown (Sunset)
-* Noe Cafe (Noe)
-
 ## Cocktails
 * The Interval
 * Peacekeeper (Bush Street)
