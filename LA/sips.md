@@ -11,6 +11,7 @@
 * Highland Park Bowl
 * La Cuevita
 * Checker Hall
+* Cafe Birdie
 
 ### Atwater
 * Big Foot Lounge

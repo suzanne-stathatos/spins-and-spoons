@@ -17,6 +17,7 @@
 * Sam's Chowder House (Tiburon)
 * White Elephant Sushi
 * Hikari Bullet Train Sushi
+* Madcap (San Anselmo)
 
 Breakfasts
 * Devil's Teeth Baking Co

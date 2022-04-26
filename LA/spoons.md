@@ -40,6 +40,7 @@
 * Chateau Marmont ($$$$)
 * Kensho
 * Mama Shelter
+* Magari ($$$)
 
 ## Studio City
 * Firefly
@@ -85,3 +86,6 @@
 
 ## Beverly Hills
 * Ima (Dan's spot) (too many dollar signs) <3 
+
+## Sherman Oaks
+* Anjak Thai ($$)
