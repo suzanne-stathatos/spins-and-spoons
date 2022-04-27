@@ -4,6 +4,7 @@
 * Bacari
 * Hyperion Public
 * Botanica
+* All Day Baby (Thai tea-infused Olympia vodka)
 
 ### Highland Park
 * The Blind Barber
@@ -31,6 +32,7 @@
 (Arts District)
 * Death and Co.
 * Everson Royce Bar
+* Chatterbox (The Clacson)
 
 ### Chinatown
 * Apotheke ($$)
@@ -51,22 +53,32 @@
 * The Spare Room ($$$)
 * EP & LP
 * Ace Hotel Rooftop
+* Bar Lis (new rooftop as of 4/26/2022)
+
 ### Weho
 * Employees Only ($$)
+* The Phoenix
+* The Roger Room
+* Uncool
 
 ### Los Feliz
 * Bar Covell ($$)
 * Big Bar ($$)
+* The Dresden
 
 ### Virgil
 * Melody wine bar
 
 ### Culver City
 * Bar Bohemian (Citizen Public Market)
+* Etta
 
 ### Santa Monica
 * The Bungalow (day drinks)
 * The Roger Room
+* The Midfit
+* Ester's Wine Shop & Bar
+
 
 ### Venice
 * Moonjuice
@@ -75,6 +87,8 @@
 * Gjusta
 * Hotel Irwin
 * Grand Blanco
+* Zinque
+* Belle's Beach House
 
 ### Long Beach
 * The Bamboo Club
