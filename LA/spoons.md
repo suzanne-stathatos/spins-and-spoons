@@ -9,6 +9,8 @@
 * Breadblok Bakery (also in Santa Monica) ($)
 * Blair's
 * Botanica ($$)
+* De Buena Planta
+* Causita
 
 ## Atwater Village
 * Salazar's
@@ -28,6 +30,8 @@
 * KazuNori ( Sushi, handrolls + sashimi )
 * Poppy + Rose’s (Brunch)
 * BRERA Ristorante
+* Cabra
+* Cara Cara
 
 ## Koreatown
 * Dan Sung Sa ($)
@@ -41,6 +45,7 @@
 * Kensho
 * Mama Shelter
 * Magari ($$$)
+* Ka'Teen
 
 ## Studio City
 * Firefly
@@ -51,6 +56,8 @@
 
 ## Arts District
 * Girl and The Goat
+* Yangban Society
+* De La Nonna
 
 ## Malibu
 * Nobu ($$$$)
