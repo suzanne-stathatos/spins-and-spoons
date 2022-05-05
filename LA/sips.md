@@ -1,9 +1,10 @@
 ### Silverlake
-* The Friend
+* L&E
 * Tenants of the Trees (temporarily closed)
 * Bacari
 * Hyperion Public
 * Botanica
+* The Friend
 * All Day Baby (Thai tea-infused Olympia vodka)
 
 ### Highland Park
@@ -19,6 +20,8 @@
 * Frogtown Brewing
 
 ### Echo Park
+* Bar Flores
+* Button Mash
 * Thunderbolt
 * Genever
 * Semi Tropic (!)
@@ -29,10 +32,6 @@
 * The Edison
 * The Bradbury Building
 * Break Room 86
-(Arts District)
-* Death and Co.
-* Everson Royce Bar
-* Chatterbox (The Clacson)
 
 ### Chinatown
 * Apotheke ($$)
@@ -93,3 +92,11 @@
 ### Long Beach
 * The Bamboo Club
 
+### Arts District
+* Arts District Brewing
+* Angel City
+* Death and Co.
+* Everson Royce Bar
+* Chatterbox (The Clacson)
+* Father's Office
+* 82
