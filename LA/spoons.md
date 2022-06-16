@@ -46,6 +46,10 @@
 * Mama Shelter
 * Magari ($$$)
 * Ka'Teen
+* Musso and Frank ($$$$)
+
+## WEHO
+* Ronan ($$)
 
 ## Studio City
 * Firefly
@@ -63,6 +67,7 @@
 * Nobu ($$$$)
 * Broad Street Oyster Co.
 * Neptune's Net
+* Real Coconut Kitchen
 
 ## Venice
 * First Fridays ($) - every first friday of the month, Venice closes off a street to food trucks (like Oakland's first fridays, but.. cleaner)
@@ -80,6 +85,7 @@
 
 ## Santa Monica
 * Elephante
+* Bay Cities
 
 ## Glendale + Alhambra
 * Din Tai Fung
@@ -87,12 +93,17 @@
 
 ## Culver City
 * n/naka (Japanese) ($$$)
+* Eataly
 
 ## Manhattan Beach
 * M&Love Cafe
 
 ## Beverly Hills
 * Ima (Dan's spot) (too many dollar signs) <3 
+* Spago ($$$$)
+
+## Beverly Grove
+* The Original Farmers Market (by the Grove)
 
 ## Sherman Oaks
 * Anjak Thai ($$)
