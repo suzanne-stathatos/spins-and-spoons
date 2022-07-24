@@ -68,6 +68,7 @@
 * Broad Street Oyster Co.
 * Neptune's Net
 * Real Coconut Kitchen
+* Cafe on 27 (Topanga)
 
 ## Venice
 * First Fridays ($) - every first friday of the month, Venice closes off a street to food trucks (like Oakland's first fridays, but.. cleaner)

@@ -6,6 +6,7 @@
 * Botanica
 * The Friend
 * All Day Baby (Thai tea-infused Olympia vodka)
+* The Black Cat (chill vibes on the patio, mysteriously super trendy)
 
 ### Highland Park
 * The Blind Barber
@@ -26,6 +27,7 @@
 * Genever
 * Semi Tropic (!)
 * OTOTO ($$)
+* Bar Bandini 
 
 ### Downtown
 * Clifton's
