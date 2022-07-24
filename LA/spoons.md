@@ -70,6 +70,7 @@
 
 ## Santa Monica
 * Elephante
+* Republique
 
 ## Glendale + Alhambra
 * Din Tai Fung
@@ -83,3 +84,8 @@
 
 ## Beverly Hills
 * Ima (Dan's spot) (too many dollar signs) <3 
+
+## Weho/Fairfax
+* Theia
+* The Farmer's Market
+* John and Vinny's

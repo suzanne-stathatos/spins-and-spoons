@@ -5,6 +5,8 @@
 * Tops
 * King Taco
 * Einstein Bros
+* Los California Tacos
+* Guisados
 
 ### $$
 * Pie and Burger
