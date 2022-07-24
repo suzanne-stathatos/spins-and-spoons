@@ -9,6 +9,8 @@
 * Breadblok Bakery (also in Santa Monica) ($)
 * Blair's
 * Botanica ($$)
+* De Buena Planta
+* Causita
 
 ## Atwater Village
 * Salazar's
@@ -27,6 +29,9 @@
 * Grand Central Market
 * KazuNori ( Sushi, handrolls + sashimi )
 * Poppy + Rose’s (Brunch)
+* BRERA Ristorante
+* Cabra
+* Cara Cara
 
 ## Koreatown
 * Dan Sung Sa ($)
@@ -39,6 +44,12 @@
 * Chateau Marmont ($$$$)
 * Kensho
 * Mama Shelter
+* Magari ($$$)
+* Ka'Teen
+* Musso and Frank ($$$$)
+
+## WEHO
+* Ronan ($$)
 
 ## Studio City
 * Firefly
@@ -49,11 +60,14 @@
 
 ## Arts District
 * Girl and The Goat
+* Yangban Society
+* De La Nonna
 
 ## Malibu
 * Nobu ($$$$)
 * Broad Street Oyster Co.
 * Neptune's Net
+* Real Coconut Kitchen
 
 ## Venice
 * First Fridays ($) - every first friday of the month, Venice closes off a street to food trucks (like Oakland's first fridays, but.. cleaner)
@@ -67,10 +81,12 @@
 * Belles Beach House Hawaiian Restaurant ($$)
 * Zinque ( also in dtla, newport, weho)*
 * Laurel Hardware
+* Wabi on Rose
 
 ## Santa Monica
 * Elephante
 * Republique
+* Bay Cities
 
 ## Glendale + Alhambra
 * Din Tai Fung
@@ -78,6 +94,7 @@
 
 ## Culver City
 * n/naka (Japanese) ($$$)
+* Eataly
 
 ## Manhattan Beach
 * M&Love Cafe
@@ -89,3 +106,10 @@
 * Theia
 * The Farmer's Market
 * John and Vinny's
+* Spago ($$$$)
+
+## Beverly Grove
+* The Original Farmers Market (by the Grove)
+
+## Sherman Oaks
+* Anjak Thai ($$)

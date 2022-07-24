@@ -1,9 +1,11 @@
 ### Silverlake
-* The Friend
+* L&E
 * Tenants of the Trees (temporarily closed)
 * Bacari
 * Hyperion Public
 * Botanica
+* The Friend
+* All Day Baby (Thai tea-infused Olympia vodka)
 
 ### Highland Park
 * The Blind Barber
@@ -11,12 +13,15 @@
 * Highland Park Bowl
 * La Cuevita
 * Checker Hall
+* Cafe Birdie
 
 ### Atwater
 * Big Foot Lounge
 * Frogtown Brewing
 
 ### Echo Park
+* Bar Flores
+* Button Mash
 * Thunderbolt
 * Genever
 * Semi Tropic (!)
@@ -27,9 +32,6 @@
 * The Edison
 * The Bradbury Building
 * Break Room 86
-(Arts District)
-* Death and Co.
-* Everson Royce Bar
 
 ### Chinatown
 * Apotheke ($$)
@@ -50,22 +52,32 @@
 * The Spare Room ($$$)
 * EP & LP
 * Ace Hotel Rooftop
+* Bar Lis (new rooftop as of 4/26/2022)
+
 ### Weho
 * Employees Only ($$)
+* The Phoenix
+* The Roger Room
+* Uncool
 
 ### Los Feliz
 * Bar Covell ($$)
 * Big Bar ($$)
+* The Dresden
 
 ### Virgil
 * Melody wine bar
 
 ### Culver City
 * Bar Bohemian (Citizen Public Market)
+* Etta
 
 ### Santa Monica
 * The Bungalow (day drinks)
 * The Roger Room
+* The Midfit
+* Ester's Wine Shop & Bar
+
 
 ### Venice
 * Moonjuice
@@ -74,7 +86,17 @@
 * Gjusta
 * Hotel Irwin
 * Grand Blanco
+* Zinque
+* Belle's Beach House
 
 ### Long Beach
 * The Bamboo Club
 
+### Arts District
+* Arts District Brewing
+* Angel City
+* Death and Co.
+* Everson Royce Bar
+* Chatterbox (The Clacson)
+* Father's Office
+* 82
