@@ -6,6 +6,8 @@
 * King Taco
 * Einstein Bros
 * Top Restaurant (Hawaiian) ?
+* Los California Tacos
+* Guisados
 
 ### $$
 * Pie and Burger
