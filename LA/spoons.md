@@ -71,6 +71,7 @@
 * Broad Street Oyster Co.
 * Neptune's Net
 * Real Coconut Kitchen
+* Cafe on 27 (Topanga)
 
 ## Venice
 * First Fridays ($) - every first friday of the month, Venice closes off a street to food trucks (like Oakland's first fridays, but.. cleaner)
@@ -88,6 +89,7 @@
 
 ## Santa Monica
 * Elephante
+* Republique
 * Bay Cities
 
 ## Topanga
@@ -106,6 +108,11 @@
 
 ## Beverly Hills
 * Ima (Dan's spot) (too many dollar signs) <3 
+
+## Weho/Fairfax
+* Theia
+* The Farmer's Market
+* John and Vinny's
 * Spago ($$$$)
 
 ## Beverly Grove
