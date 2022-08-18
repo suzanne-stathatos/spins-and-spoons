@@ -19,6 +19,7 @@
 * Magnolia House
 * Griffins (South Pas) - Irish Bar
 * Communal (South Pas)
+* Lucky Baldwins
 
 ### Cigars (fancier)
 * The Langham - a place to take your parents

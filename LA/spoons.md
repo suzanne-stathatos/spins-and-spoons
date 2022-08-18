@@ -20,6 +20,9 @@
 * Woon (Chinese)
 * Bacetti (Italian) ($$)
 
+## Highland Park
+* Hippo
+
 ## Downtown
 * Angler (also in SF)
 * Rosalind's (Ethiopian)
@@ -86,6 +89,9 @@
 ## Santa Monica
 * Elephante
 * Bay Cities
+
+## Topanga
+* Cafe on 27
 
 ## Glendale + Alhambra
 * Din Tai Fung

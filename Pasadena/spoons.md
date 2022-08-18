@@ -5,6 +5,7 @@
 * Tops
 * King Taco
 * Einstein Bros
+* Top Restaurant (Hawaiian) ?
 
 ### $$
 * Pie and Burger
@@ -18,6 +19,14 @@
 * Slater's 50/50 (also great trivia)
 * El Portal
 * Mamma's Brick Oven Pizza and Pasta (South Pas)
+* Su-Beoreg & Monta Factory (Armenian)
+* Old Sasoon Bakery (Armenian)
+* Roma Market
+* Rodney's Ribs
+* Namaste Spiceland
+* Chim! (Thai)
+* Paper Rive (Vietnamese)
+* Me + Crepe (Chinese + crepes)
 
 ### $$$ 
 * Union 
@@ -26,6 +35,12 @@
 * Agnes
 * U Street Cafe
 * The Black Cat
+* Osawa (Japanese)
+* Bone Kettle
+* Perle (French)
+* Maestro (Spanish)
+* Agnes
+* The Arbour
 
 ### Chains
 * Tendergreens
