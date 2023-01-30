@@ -22,6 +22,7 @@
 
 ## Highland Park
 * Hippo
+* Villas Tacos (street tacos)
 
 ## Downtown
 * Angler (also in SF)
@@ -91,6 +92,7 @@
 * Elephante
 * Republique
 * Bay Cities
+* Little Fattie (Thai)
 
 ## Topanga
 * Cafe on 27

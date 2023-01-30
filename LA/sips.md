@@ -1,3 +1,5 @@
+LA date night ideas: https://www.ladateideas.com/
+
 ### Silverlake
 * L&E
 * Tenants of the Trees (temporarily closed)
@@ -74,6 +76,10 @@
 * Bar Bohemian (Citizen Public Market)
 * Etta
 
+### Topanga Canyon
+* Cafe on 27
+* Topanga Living Cafe
+
 ### Santa Monica
 * The Bungalow (day drinks)
 * The Roger Room
@@ -90,6 +96,7 @@
 * Grand Blanco
 * Zinque
 * Belle's Beach House
+* The Lincoln
 
 ### Long Beach
 * The Bamboo Club
