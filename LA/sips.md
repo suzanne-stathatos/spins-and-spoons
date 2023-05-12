@@ -86,7 +86,6 @@ LA date night ideas: https://www.ladateideas.com/
 * The Midfit
 * Ester's Wine Shop & Bar
 
-
 ### Venice
 * Moonjuice
 * Cafe Gratitude
@@ -102,6 +101,8 @@ LA date night ideas: https://www.ladateideas.com/
 * The Bamboo Club
 
 ### Arts District
+* The Varnish (cocktails) - behind a French dip place
+* Girl and the Goat
 * Arts District Brewing
 * Angel City
 * Death and Co.
