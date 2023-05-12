@@ -23,11 +23,12 @@ LA date night ideas: https://www.ladateideas.com/
 * Frogtown Brewing
 
 ### Echo Park
-* Bar Flores
+* Little Joy
+* Semi Tropic (!)
+* Bar Flores (tacos upstairs)
 * Button Mash
 * Thunderbolt
 * Genever
-* Semi Tropic (!)
 * OTOTO ($$)
 * Bar Bandini 
 
