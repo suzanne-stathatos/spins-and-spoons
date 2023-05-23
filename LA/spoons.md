@@ -15,6 +15,9 @@
 ## Atwater Village
 * Salazar's
 
+## Frogtown
+* [Loreto](https://www.loreto.la/) - right on the LA river, Mexican-Japanese fusion
+
 ## Echo Park
 * Guisados ($)
 * Woon (Chinese)
