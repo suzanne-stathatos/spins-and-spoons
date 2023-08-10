@@ -1,6 +1,7 @@
-## Other
-* Neutra-VDL House II https://www.neutra-vdl.org/
-* The Chandelier Tree
+## Midcentury arch tours
+* Neutra-VDL House II https://www.neutra-vdl.org/ (Silverlake)
+* The Stahl House (Hollywood)
+* The Eames House (Pacific Palisades)
 
 ## Movies
 * EP & LP outdoor movies
