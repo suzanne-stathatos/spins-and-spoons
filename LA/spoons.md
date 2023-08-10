@@ -11,6 +11,7 @@
 * Botanica ($$)
 * De Buena Planta
 * Causita
+* Donnas ($$)
 
 ## Atwater Village
 * Salazar's
@@ -54,6 +55,7 @@
 * Magari ($$$)
 * Ka'Teen
 * Musso and Frank ($$$$)
+* Mother Wolf ($$$$)
 
 ## WEHO
 * Ronan ($$)
@@ -63,7 +65,8 @@
 * Joan's on Third
 
 ## Eagle Rock
-* Little Beast 
+* Little Beast
+* Angel's Tacos (street tacos in front of target)
 
 ## Arts District
 * Girl and The Goat
