@@ -12,11 +12,12 @@
 * Tea Pumps (Tuesdays!)
 
 ### Bars
+* Ladies and Gentlemen ($$$) - Speakeasy
+* Magnolia House
 * Kings Row
 * White Horse
 * The Tap Room
-* 1881
-* Magnolia House
+* 1886
 * Griffins (South Pas) - Irish Bar
 * Communal (South Pas)
 * Lucky Baldwins
